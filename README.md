@@ -38,6 +38,7 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 | RUST   |
 | ARCH   |
 
+- And more. There are 32 banners currently
 ---
 
 ## 🚀 Getting Started
