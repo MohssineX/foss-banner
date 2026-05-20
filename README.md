@@ -51,7 +51,7 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 ### Installation
 
 ```bash
-git clone https://github.com/detectiveRight/foss-banner.git
+git clone https://github.com/MultiRight/foss-banner.git
 cd foss-banner
 ```
 
@@ -78,9 +78,9 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 
 ## 👤 Author
 
-**detectiveRight**
+**MultiRight**
 
-- GitHub: [@detectiveRight](https://github.com/detectiveRight)
+- GitHub: [@MultiRight](https://github.com/MultiRight)
 
 ---
 
@@ -92,6 +92,6 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ## ©️ Copyright
 
-Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
+Copyright © 2026 detectiveRight <https://github.com/MultiRight>
 
 This project is open source under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
