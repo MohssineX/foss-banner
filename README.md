@@ -85,6 +85,6 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ## ©️ Copyright
 
-Copyright © 2026 detectiveRight <https://github.com/MultiRight>
+Copyright © 2026 MultiRight <https://github.com/MultiRight>
 
 This project is open source under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
