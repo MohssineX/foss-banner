@@ -97,6 +97,6 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ## Copyright
 
-Copyright © 2026 detectiveRight <https://github.com/MultiRight>
+Copyright © 2026 MultiRight <https://github.com/MultiRight>
 
 
