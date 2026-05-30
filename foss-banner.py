@@ -4,6 +4,7 @@ import os
 import sys
 import time
 import random
+import colorama
 
 
 def read_lines(path, start, end):
