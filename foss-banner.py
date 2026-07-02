@@ -1,8 +1,8 @@
 # mimi is a nice cat 🐱
 
-# github : https://github.com/Mohssine0x
+# github : https://github.com/MohssineX
 
-# Copyright (C) 2026 Mohssine0x <https://github.com/Mohssine0x>
+# Copyright (C) 2026 Mohssine0x <https://github.com/MohssineX>
 
 # Invoking libraries via import
 
@@ -410,7 +410,7 @@ while True:
             print()
 
             print(f"{color_orange}Thank you for using foss-banner!{color_reset}")
-            print(f"{color_orange}Author : https://github.com/Mohssine0x{color_reset}")
+            print(f"{color_orange}Author : https://github.com/MohssineX{color_reset}")
             
             break
 
