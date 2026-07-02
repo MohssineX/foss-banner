@@ -51,6 +51,13 @@ And more — 32 banners are currently included.
 - Python 3.x
 - A terminal with ANSI escape code support (most modern terminals qualify)
 
+### Installation
+
+```bash
+git clone https://github.com/Mohssine0x/foss-banner.git
+cd foss-banner
+```
+
 ### Usage
 
 ```bash
@@ -71,7 +78,7 @@ Press `Ctrl+C` to stop the program.
 If you're on Linux and want to run it without downloading:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/MultiRight/foss-banner/main/foss-banner.py | python3
+curl -sSL https://raw.githubusercontent.com/Mohssine0x/foss-banner/main/foss-banner.py | python3
 ```
 
 ---
@@ -84,7 +91,3 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 
 ## 🐱 Special Thanks
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
-
-
-
-
