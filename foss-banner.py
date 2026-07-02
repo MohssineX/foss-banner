@@ -2,7 +2,7 @@
 
 # github : https://github.com/MohssineX
 
-# Copyright (C) 2026 Mohssine0x <https://github.com/MohssineX>
+# Copyright (C) 2026 MohssineX <https://github.com/MohssineX>
 
 # Invoking libraries via import
 
