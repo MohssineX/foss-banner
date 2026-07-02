@@ -51,13 +51,6 @@ And more — 32 banners are currently included.
 - Python 3.x
 - A terminal with ANSI escape code support (most modern terminals qualify)
 
-### Installation
-
-```bash
-git clone https://github.com/MultiRight/foss-banner.git
-cd foss-banner
-```
-
 ### Usage
 
 ```bash
