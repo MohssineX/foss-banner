@@ -91,7 +91,7 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 
 ## Author
 
-**Mohssine**
+**Mohssine : **
 [https://github.com/MohssineX](https://github.com/MohssineX)
 
 ---
