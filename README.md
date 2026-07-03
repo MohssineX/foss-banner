@@ -64,7 +64,7 @@ cd foss-banner
 python foss-banner.py
 ```
 
-> **Note:** On some systems, `python3` must be used explicitly:
+> **Tip:** If `python` does not work, try:
 > ```bash
 > python3 foss-banner.py
 > ```
