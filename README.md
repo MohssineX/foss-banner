@@ -1,4 +1,4 @@
-# foss-banner
+# 🎨 foss-banner
 
 A lightweight terminal utility that displays animated ASCII art banners celebrating the world of Free and Open Source Software (FOSS).
 
