@@ -57,6 +57,10 @@ And more — 32 banners are currently included.
 git clone https://github.com/MohssineX/foss-banner.git
 cd foss-banner
 ```
+> **Tip:** If `python` does not work, try:
+> ```bash
+> python3 foss-banner.py
+> ```
 
 ### Usage
 
