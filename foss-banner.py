@@ -16,7 +16,7 @@ if sys.platform == "win32":
     
 # color variables
 
-color_orange = "\033[33m"
+color_yellow = "\033[33m"
 color_reset = "\033[0m"
 
 # ANSI color codes for terminal text colors (red, green, yellow, blue, purple, cyan)
@@ -409,8 +409,8 @@ while True:
             
             print()
 
-            print(f"{color_orange}Thank you for using foss-banner!{color_reset}")
-            print(f"{color_orange}Author : https://github.com/MohssineX{color_reset}")
+            print(f"{color_yellow}Thank you for using foss-banner!{color_reset}")
+            print(f"{color_yellow}Author : https://github.com/MohssineX{color_reset}")
             
             break
 
