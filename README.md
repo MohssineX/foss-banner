@@ -1,7 +1,7 @@
 # 🎨 foss-banner
 
 ![Python](https://img.shields.io/badge/python-3-blue)
-![License](https://img.shields.io/badge/license-GPL-blue)
+![License](https://img.shields.io/badge/license-GPLv3-blue)
 
 A lightweight terminal utility that displays animated ASCII art banners celebrating the world of Free and Open Source Software (FOSS).
 
