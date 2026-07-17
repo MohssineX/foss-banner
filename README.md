@@ -72,6 +72,13 @@ If your system uses `python3` :
 python3 foss-banner.py
 ```
 
+## How It Works
+
+1. Start the program
+2. Watch animated FOSS banners in the terminal
+3. Press `Ctrl+C` to stop the program
+
+
 Stop the program at any time with:
 
 ```text
