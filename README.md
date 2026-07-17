@@ -79,12 +79,6 @@ python3 foss-banner.py
 3. Press `Ctrl+C` to stop the program
 
 
-Stop the program at any time with:
-
-```text
-Ctrl + C
-```
-
 ## Quick Run (Without Cloning)
 
 ```bash
