@@ -3,16 +3,16 @@
 ![Python](https://img.shields.io/badge/python-3-blue)
 ![License](https://img.shields.io/badge/license-GPLv3-blue)
 
-A lightweight terminal utility that displays the names and logos of various Free and Open Source Software (FOSS) projects as animated ASCII art banners.
+A lightweight terminal utility that displays various Free and Open Source Software (FOSS) project names as animated ASCII art banners.
 
 ![banner](banner.png)
 
 ## Features
 
-* Animated ASCII art banners
+* Animated ASCII art banners of FOSS projects
 * Random color selection for each banner
+* Includes 32 different FOSS project banners
 * Pure Python implementation (no external dependencies)
-* Includes 32 FOSS-related banners
 
 ## Included Banners
 
@@ -44,6 +44,8 @@ A lightweight terminal utility that displays the names and logos of various Free
 
 ## Installation
 
+### Clone the repository :
+
 ```bash
 git clone https://github.com/MohssineX/foss-banner.git
 cd foss-banner
@@ -60,13 +62,6 @@ If your system uses `python3` :
 ```bash
 python3 foss-banner.py
 ```
-
-## How It Works
-
-1. Start the program
-2. Watch animated FOSS banners in the terminal
-3. Press `Ctrl+C` to stop the program
-
 
 ## Quick Run (Without Cloning)
 
@@ -85,7 +80,7 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 ## Author
 
 **Mohssine :**
-[ https://github.com/MohssineX](https://github.com/MohssineX)
+[https://github.com/MohssineX](https://github.com/MohssineX)
 
 ---
 
