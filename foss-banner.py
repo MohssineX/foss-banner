@@ -26,6 +26,8 @@ signal.signal(signal.SIGINT, handle_interrupt)
 import random
 import time
 
+print("\033[H\033[J", end="")
+
 # ANSI color codes for terminal text colors (red, green, yellow, blue, purple, cyan)
 COLORS = ["\033[31m","\033[32m","\033[33m","\033[34m","\033[35m","\033[36m"]
 
