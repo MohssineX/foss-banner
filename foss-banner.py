@@ -4,8 +4,6 @@
 
 # Copyright (C) 2026 Mohssine <https://github.com/MohssineX>
 
-# Invoking libraries via import
-
 import sys
 import signal
 
@@ -14,7 +12,6 @@ if sys.platform == "win32":
     os.system("")
     
 # color variables
-
 color_yellow = "\033[33m"
 color_reset = "\033[0m"
     
@@ -30,13 +27,10 @@ import random
 import time
 
 # ANSI color codes for terminal text colors (red, green, yellow, blue, purple, cyan)
-
 COLORS = ["\033[31m","\033[32m","\033[33m","\033[34m","\033[35m","\033[36m"]
 
 # Script to run animated banners
-
 while True:
-    
      print(random.choice(COLORS) + r"""
     ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗    
     ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝    
@@ -411,5 +405,4 @@ while True:
                                                           """+ "\033[0m")
      time.sleep(0.5) 
      print("\033[H\033[J", end="")
-     
      
