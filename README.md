@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3-blue)
 ![License](https://img.shields.io/badge/license-GPLv3-blue)
+![Stars](https://img.shields.io/github/stars/MohssineX/foss-banner?style=social)
+
 
 A lightweight terminal utility that displays various Free and Open Source Software (FOSS) project names as animated ASCII art banners.
 
