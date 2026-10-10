@@ -20,7 +20,7 @@ A lightweight terminal utility that displays various Free and Open Source Softwa
 * C
 * PYTHON
 * BASH
-* TERMINAL
+* NEOVIM
 * GNU
 * FIREFOX
 * VIM
