@@ -16,7 +16,7 @@ color_yellow = "\033[33m"
 color_reset = "\033[0m"
     
 def handle_interrupt(sig, frame):
-    print("\n")
+    print("")
     print(f"{color_yellow}Thank you for using foss-banner!{color_reset}")
     print(f"{color_yellow}Author : https://github.com/MohssineX{color_reset}")
     sys.exit(0)
