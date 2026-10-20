@@ -77,7 +77,7 @@ curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/src/foss-
 
 ## License
 
-This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**
+This project is licensed under the **[GNU General Public License v3.0](LICENSE)**
 
 ---
 
