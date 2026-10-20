@@ -73,7 +73,9 @@ python3 foss-banner.py
 
 ## Quick Run (Without Cloning)
 
-> **Note:** Linux / macOS (on Windows: WSL or Git Bash)
+> [!NOTE]
+> This command works on **Linux** and **macOS**.
+> On **Windows**, run it inside **WSL** or **Git Bash**.
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/src/foss-banner.py | python3
