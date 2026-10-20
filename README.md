@@ -58,6 +58,10 @@ cd foss-banner
 Run the program :
 
 ```bash
+cd src
+```
+
+```bash
 python foss-banner.py
 ```
 
