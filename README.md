@@ -70,7 +70,7 @@ python3 foss-banner.py
 ## Quick Run (Without Cloning)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/foss-banner.py | python3
+curl -sSL https://raw.githubusercontent.com/MohssineX/foss-banner/main/src/foss-banner.py | python3
 ```
 
 ---
