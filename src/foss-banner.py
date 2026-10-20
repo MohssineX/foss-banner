@@ -6,14 +6,15 @@
 import sys
 import signal
 
-if sys.platform == "win32":
+if sys.platform == "win32": # Enable ANSI escape codes on Windows (not needed on Linux/Mac)
     import os
     os.system("")
     
 # color variables
 color_yellow = "\033[33m"
 color_reset = "\033[0m"
-    
+
+# Exit the application when pressing Ctrl+C.
 def handle_interrupt(sig, frame):
     print("")
     print(f"{color_yellow}Thank you for using foss-banner!{color_reset}")
