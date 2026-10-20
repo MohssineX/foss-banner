@@ -1,8 +1,7 @@
 # mimi is a nice cat 
-
 # github : https://github.com/MohssineX
-
 # Copyright (C) 2026 Mohssine <https://github.com/MohssineX>
+# SPDX-License-Identifier: GPL-3.0-only
 
 import sys
 import signal
