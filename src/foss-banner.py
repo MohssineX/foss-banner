@@ -11,14 +11,14 @@ if sys.platform == "win32": # Enable ANSI escape codes on Windows (not needed on
     os.system("")
     
 # color variables
-color_yellow = "\033[33m"
-color_reset = "\033[0m"
+COLOR_YELLOW = "\033[33m"
+COLOR_RESET = "\033[0m"
 
 # Exit the application when pressing Ctrl+C.
 def handle_interrupt(sig, frame):
     print("")
-    print(f"{color_yellow}Thank you for using foss-banner!{color_reset}")
-    print(f"{color_yellow}Author : https://github.com/MohssineX{color_reset}")
+    print(f"{COLOR_YELLOW}Thank you for using foss-banner!{COLOR_RESET}")
+    print(f"{COLOR_YELLOW}Author : https://github.com/MohssineX{COLOR_RESET}")
     sys.exit(0)
 
 signal.signal(signal.SIGINT, handle_interrupt)
@@ -29,7 +29,7 @@ import time
 print("\033[H\033[J", end="")
 
 # ANSI color codes for terminal text colors 
-COLORS = ["\033[31m","\033[32m","\033[33m","\033[34m","\033[35m","\033[36m","\033[38;5;208m","\033[38;5;213m","\033[38;5;118m"]
+COLORS = ["\033[31m","\033[32m","\033[33m","\033[34m","\033[35m","\033[36m"]
 
 ASCII_ARTS = [
 r"""
