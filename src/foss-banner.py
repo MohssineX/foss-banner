@@ -5,6 +5,8 @@
 
 import sys
 import signal
+import random
+import time
 
 if sys.platform == "win32": # Enable ANSI escape codes on Windows (not needed on Linux/Mac)
     import os
@@ -23,10 +25,10 @@ def handle_interrupt(sig, frame):
 
 signal.signal(signal.SIGINT, handle_interrupt)
 
-import random
-import time
+# clear variables
+CLEAR_SCREEN = "\033[H\033[2J\033[3J"
 
-print("\033[H\033[J", end="")
+print(CLEAR_SCREEN, end="")
 
 # ANSI color codes for terminal text colors 
 COLORS = ["\033[31m","\033[32m","\033[33m","\033[34m","\033[35m","\033[36m"]
@@ -292,7 +294,7 @@ r"""
 
 def main():
     while True:
-        print("\033[H\033[J", end="")
+        print(CLEAR_SCREEN, end="")
         print(random.choice(COLORS) + random.choice(ASCII_ARTS) + "\033[0m")
         time.sleep(0.5)
 
