@@ -38,6 +38,7 @@ A lightweight terminal utility that displays various Free and Open Source Softwa
 - Windows
 - Linux
 - macOS
+- BSD (FreeBSD, OpenBSD, NetBSD)
 
 ## Requirements
 
